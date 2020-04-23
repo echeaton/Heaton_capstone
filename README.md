@@ -1,8 +1,7 @@
----
-title: "IBS 538 2020 Capstone"
-author: "Liz Heaton"
-date: "4/28/2020"
-output: html_document
+
+IBS 538 2020 Capstone
+Liz Heaton
+4/28/2020
 ---
 ### Background 
 
@@ -37,6 +36,7 @@ The independent variable is surgery treatment into the DMS. Surgery treatment is
 
 **Independent Replicate.** Each mouse in a group will be an independent replicate. I will take care to use an outbred mouse strain so that my mice are not genetically identical.
 
+#
 
 ### Graph and dataMaker 
 
