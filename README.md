@@ -1,8 +1,12 @@
 
 IBS 538 2020 Capstone
+
 Liz Heaton
+
 4/28/2020
----
+
+#
+
 ### Background 
 
 **Background and Significance.** Many neuropsychiatric diseases, including substance use disorder, are characterized, in part, by a failure to flexibly adapt to an ever-changing environment. The dorsomedial striatum (DMS) is essential for maintaining goal-directed behavior – it is active during new task learning, and it is re-engaged when habits are “broken”. However, the neuronal factors underlying an organism’s ability to flexibly toggle between goal-directed and habit-based behavior are not completely understood. Recent experiments revealed that lower protein levels of the melanocortin-4 receptor (MC4R) in the DMS are associated with behavioral flexibility (breaking habits) during an operant conditioning task. The key outcome of this task is that animals with lower response rates are considered more "goal directed", while animals with higher response rates are considered more "habitual".
